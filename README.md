@@ -7,4 +7,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bcstudios-maker&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-![](https://github-contributor-stats.vercel.app/api?username=Bcstudios-maker&limit=3&theme=gruvbox&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Bcstudios-maker&hide=B,B%2B&hide_contributor_rank=false&limit=5)
+
+
