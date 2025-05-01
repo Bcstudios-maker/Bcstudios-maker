@@ -3,5 +3,8 @@
 </h1>
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=HugoChambert&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bcstudios-maker&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Bcstudios-maker&theme=gruvbox&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bcstudios-maker&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+
+![](https://github-contributor-stats.vercel.app/api?username=Bcstudios-maker&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
