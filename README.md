@@ -1,3 +1,9 @@
+<h2><a id="github-stats"></a><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Github Stats</h2>
+<div align="center">
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&color=red&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+;+I'm+Benjamin+Cantrall;" />
+</h1>
+
 
 <h3>
   <a id="programming-languages"></a>
@@ -39,12 +45,6 @@
 </a>
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
-
-<h2><a id="github-stats"></a><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Github Stats</h2>
-<div align="center">
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&color=red&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+;+I'm+Benjamin+Cantrall;" />
-</h1>
 
 <h2><a id="github-stats"></a><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Github Stats</h2>
 <div align="center">
