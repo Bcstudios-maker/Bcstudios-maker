@@ -14,7 +14,7 @@
 </h3>  
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,js,cpp,java"/>
+  <img src="https://skillicons.dev/icons?i=py,cpp,java"/>
 </a>
 
 <h3>
@@ -26,7 +26,7 @@
 </h3>  
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs" />
 </a>
 
 ### 🗄️ Databases  
