@@ -35,7 +35,7 @@
 
 ### ⚙️ Tools & Platforms  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux" />
+  <img src="https://skillicons.dev/icons?i=azure,git,github,vscode,windows,linux" />
 </a>
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
