@@ -5,8 +5,8 @@
 <h2><a id="github-stats"></a><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Github Stats</h2>
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HugoChambert&theme=apprentice)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HugoChambert&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bcstudios-maker&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bcstudios-maker&theme=apprentice)
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 ### 🔝 Top Contributed Repo
