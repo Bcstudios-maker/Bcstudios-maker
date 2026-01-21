@@ -25,7 +25,7 @@
 
 ### 🗄️ Databases  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres, supabase" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
 </a>
 
 ### ☁️ Cloud & DevOps  
